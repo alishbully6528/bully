@@ -220,7 +220,7 @@ function create_config( )
     "invite"
     },
     sudo_users = {111860047,52038630,0,tonumber(our_id)},--Sudo users
-    disabled_channels = {49441010},
+    disabled_channels = {59827093},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
